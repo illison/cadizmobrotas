@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "65d97b4dd33c4253578402b981ade743",
+    "revision": "4a0f458ea5f39e8d9019c4dded9416fc",
     "url": "/cadizmobrotas/index.html"
   },
   {
-    "revision": "40efb51fcfdfb6115759",
+    "revision": "ee12232884ecf7be0602",
     "url": "/cadizmobrotas/static/css/main.2385ed7d.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cadizmobrotas/static/js/2.439b9f84.chunk.js"
   },
   {
-    "revision": "40efb51fcfdfb6115759",
-    "url": "/cadizmobrotas/static/js/main.d2af0a62.chunk.js"
+    "revision": "ee12232884ecf7be0602",
+    "url": "/cadizmobrotas/static/js/main.7a909b81.chunk.js"
   },
   {
     "revision": "0764aea1cdc50b62a247",
